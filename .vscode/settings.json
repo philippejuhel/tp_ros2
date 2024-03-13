@@ -1,0 +1,30 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/phil/ros2_ws_humble/build/turtlebot4_tests",
+        "/home/phil/ros2_ws_humble/install/turtlebot4_tests/lib/python3.10/site-packages",
+        "/home/phil/ros2_ws_humble/build/turtlebot4_diagnostics",
+        "/home/phil/ros2_ws_humble/install/turtlebot4_diagnostics/lib/python3.10/site-packages",
+        "/home/phil/ros2_ws_humble/build/program_test",
+        "/home/phil/ros2_ws_humble/install/program_test/lib/python3.10/site-packages",
+        "/home/phil/ros2_ws_humble/build/my_package",
+        "/home/phil/ros2_ws_humble/install/my_package/lib/python3.10/site-packages",
+        "/home/phil/ros2_ws_humble/install/dynamixel_sdk_custom_interfaces/local/lib/python3.10/dist-packages",
+        "/home/phil/ws/install/map_simulator/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/phil/ros2_ws_humble/build/turtlebot4_tests",
+        "/home/phil/ros2_ws_humble/install/turtlebot4_tests/lib/python3.10/site-packages",
+        "/home/phil/ros2_ws_humble/build/turtlebot4_diagnostics",
+        "/home/phil/ros2_ws_humble/install/turtlebot4_diagnostics/lib/python3.10/site-packages",
+        "/home/phil/ros2_ws_humble/build/program_test",
+        "/home/phil/ros2_ws_humble/install/program_test/lib/python3.10/site-packages",
+        "/home/phil/ros2_ws_humble/build/my_package",
+        "/home/phil/ros2_ws_humble/install/my_package/lib/python3.10/site-packages",
+        "/home/phil/ros2_ws_humble/install/dynamixel_sdk_custom_interfaces/local/lib/python3.10/dist-packages",
+        "/home/phil/ws/install/map_simulator/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
